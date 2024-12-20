@@ -1,0 +1,15 @@
+D:\dev c#\lab\lab07\lab07.2\lab07.2\bin\Debug\net8.0\lab07.2.exe
+D:\dev c#\lab\lab07\lab07.2\lab07.2\bin\Debug\net8.0\lab07.2.deps.json
+D:\dev c#\lab\lab07\lab07.2\lab07.2\bin\Debug\net8.0\lab07.2.runtimeconfig.json
+D:\dev c#\lab\lab07\lab07.2\lab07.2\bin\Debug\net8.0\lab07.2.dll
+D:\dev c#\lab\lab07\lab07.2\lab07.2\bin\Debug\net8.0\lab07.2.pdb
+D:\dev c#\lab\lab07\lab07.2\lab07.2\obj\Debug\net8.0\lab07.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev c#\lab\lab07\lab07.2\lab07.2\obj\Debug\net8.0\lab07.2.AssemblyInfoInputs.cache
+D:\dev c#\lab\lab07\lab07.2\lab07.2\obj\Debug\net8.0\lab07.2.AssemblyInfo.cs
+D:\dev c#\lab\lab07\lab07.2\lab07.2\obj\Debug\net8.0\lab07.2.csproj.CoreCompileInputs.cache
+D:\dev c#\lab\lab07\lab07.2\lab07.2\obj\Debug\net8.0\lab07.2.sourcelink.json
+D:\dev c#\lab\lab07\lab07.2\lab07.2\obj\Debug\net8.0\lab07.2.dll
+D:\dev c#\lab\lab07\lab07.2\lab07.2\obj\Debug\net8.0\refint\lab07.2.dll
+D:\dev c#\lab\lab07\lab07.2\lab07.2\obj\Debug\net8.0\lab07.2.pdb
+D:\dev c#\lab\lab07\lab07.2\lab07.2\obj\Debug\net8.0\lab07.2.genruntimeconfig.cache
+D:\dev c#\lab\lab07\lab07.2\lab07.2\obj\Debug\net8.0\ref\lab07.2.dll
